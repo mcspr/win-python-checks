@@ -14,4 +14,4 @@ jobs:
       with:
         python-version: '3.7'
     - run: |
-        python test.py
+        python -X utf8 test.py
